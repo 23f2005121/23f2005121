@@ -7,9 +7,7 @@
 
 
 <p align="center">
-  I am a <b>Data Science</b> and <b>Information Engineering</b> student at the <b>Indian Institute of Technology (IIT) Madras</b> and <b>Technical University of Munich (TUM),</b>, passionate about turning raw data into meaningful insights and building robust applications. 
-  <br>
-  I bridge the gap between analytical engineering and creative development, exploring everything from <b>Machine Learning</b> models to immersive <b>Game Development</b>.
+  I am a <b>Data Science</b> and <b>Information Engineering</b> student at the <b>Indian Institute of Technology (IIT) Madras</b> and <b>Technical University of Munich (TUM)</b>, passionate about turning raw data into meaningful insights and building robust applications. I bridge the gap between analytical engineering and creative development, exploring everything from <b>Machine Learning</b> models to immersive <b>Game Development</b>.
 </p>
 
 <p align="center">
