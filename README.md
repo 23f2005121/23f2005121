@@ -4,10 +4,10 @@
 
 <h1 align="center">Hi there, I'm <a href="https://github.com/23f2005121">Azhaan Pary</a>! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<h3 align="center">Aspiring Data Scientist | Full Stack Developer | Student at IIT Madras</h3>
+
 
 <p align="center">
-  I am a <b>Data Science</b> and <b>Information Engineering</b> student at the <b>Indian Institute of Technology (IIT) Madras</b> and <b>Technical University of Munich (TUM)</b>, passionate about turning raw data into meaningful insights and building robust applications. 
+  I am a <b>Data Science</b> and <b>Information Engineering</b> student at the <b>Indian Institute of Technology (IIT) Madras</b> and <b>Technical University of Munich (TUM),</b>, passionate about turning raw data into meaningful insights and building robust applications. 
   <br>
   I bridge the gap between analytical engineering and creative development, exploring everything from <b>Machine Learning</b> models to immersive <b>Game Development</b>.
 </p>
@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/azhaanpary/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:contact@example.com">
+  <a href="23f2005121@ds.study.iitm.ac.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
