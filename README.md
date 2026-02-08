@@ -35,7 +35,7 @@
 <p align="center">
   <!-- Data Science & ML -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,pandas,numpy,anaconda&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,anaconda&theme=dark" />
   </a>
   <br>
   <!-- App Dev -->
